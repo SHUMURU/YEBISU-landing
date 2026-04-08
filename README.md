@@ -6,7 +6,12 @@ import os
 st.set_page_config(
     page_title="YEBISU Premium",
     layout="wide"
-)
+)[requirements.txt](https://github.com/user-attachments/files/26558827/requirements.txt)streamlit
+openai
+anthropic
+python-dotenv
+watchdog
+
 
 # 自定义CSS（修正了转义字符，确保样式生效）
 st.markdown("""
